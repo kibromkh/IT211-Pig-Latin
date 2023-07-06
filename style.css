@@ -1,27 +1,26 @@
 body {
-    text-align: center;
-    font-family: Arial, sans-serif;
-  }
-  
-  h1 {
-    color: #333;
-  }
-  
-  #container {
-    margin-top: 20px;
-  }
-  
-  #input-text {
-    width: 400px;
-    height: 100px;
-  }
-  
-  #translate-btn {
-    margin-top: 10px;
-  }
-  
-  #output-text {
-    margin-top: 20px;
-    font-weight: bold;
-  }
-  
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #bb6c6c;
+}
+
+#container {
+  margin-top: 20px;
+}
+
+#input-text {
+  width: 400px;
+  height: 100px;
+}
+
+#translate-btn {
+  margin-top: 10px;
+}
+
+#output-text {
+  margin-top: 20px;
+  font-weight: bold;
+}
